@@ -8,7 +8,7 @@ Documentation: https://help.syncfusion.com/flutter/pdf/overview
 
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
-* [Flutter SDK v1.22+] (https://flutter.dev/docs/development/tools/sdk/overview)
+* [Flutter SDK v1.22+](https://flutter.dev/docs/development/tools/sdk/overview)
 * [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
 ## How to run this application
